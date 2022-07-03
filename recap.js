@@ -67,3 +67,4 @@ const myName = 'lal e lal mr. Helal';
 console.log(myName);
 myName = 22; //possible na
 //const er bodole let dile r error dito na
+//let er maan reassign kora jae but const er maan re assign kora jae na 
